@@ -284,6 +284,7 @@ a:hover {
 }
 .mock img {
   position: relative;
+  width: 250px;
 }
 .mock .back-mock {
   position: absolute;
